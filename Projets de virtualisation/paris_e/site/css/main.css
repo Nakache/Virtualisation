@@ -9,9 +9,6 @@
     height: 38em;
     width: 100%;
 }
-/*.row .col.s6 label {
-    text-align: center;
-}*/
 .center-things .row .col.s6 {
     margin-left: auto;
     margin-right: auto;
@@ -19,4 +16,8 @@
 
 .center-things .row .col {
     float: none;
+}
+
+.btn, .btn-large {
+    width: 100%;
 }
